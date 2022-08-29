@@ -1,0 +1,1 @@
+@start pythonw3.9 C:\temp\main.py
